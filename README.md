@@ -2,7 +2,7 @@ zyoukuu
 ======================
 Fly over and under obstacles and get bonus items.
 
-[Play in browser](http://abagames.sakura.ne.jp/nme/rowcov/ "rowcov")
+[Play in browser](http://abagames.sakura.ne.jp/nme/zyoukuu/ "zyoukuu")
 
 License
 ----------
